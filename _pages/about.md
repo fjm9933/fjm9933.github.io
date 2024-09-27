@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-Senior at Southeast University, majoring in Mathematics. Incoming graduate student in Artificial Intelligence with research interests in large models, speculative decoding, contrastive decoding, and in-context learning.
+Senior at Southeast University, majoring in Mathematics. Incoming graduate student in Artificial Intelligence with research interests in large language models, speculative decoding, contrastive decoding, and in-context learning.
 
 Education
 ======
@@ -17,7 +17,7 @@ Education
   
 Research Interests
 ======
-- Large Models
+- Large Language Models
 - Speculative Decoding
 - Contrastive Decoding
 - In-Context Learning
